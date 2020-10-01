@@ -59,7 +59,8 @@ Screenshots
 All screenshots are listed in data/screenshots.py.
 
 
-Development
+Development and installation
+
 -----------
 
 For development, first install dependencies. The ones needed for running the
